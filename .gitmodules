@@ -1,0 +1,45 @@
+[submodule "Rock-paper-scissors"]
+	path = Rock-paper-scissors
+	url = https://github.com/damodara2006/Rock-paper-scissors.git
+[submodule "Profile-card"]
+	path = Profile-card
+	url = https://github.com/damodara2006/Profile-card.git
+[submodule "To-Do-List"]
+	path = To-Do-List
+	url = https://github.com/damodara2006/To-Do-List.git
+[submodule "Express---CRUD-Application"]
+	path = Express---CRUD-Application
+	url = https://github.com/damodara2006/Express---CRUD-Application.git
+[submodule "UserRegister-in-MongoDB"]
+	path = UserRegister-in-MongoDB
+	url = https://github.com/damodara2006/UserRegister-in-MongoDB.git
+[submodule "Login-page-connected-to-mongodb"]
+	path = Login-page-connected-to-mongodb
+	url = https://github.com/damodara2006/Login-page-connected-to-mongodb.git
+[submodule "Mental-Health-Chatbot"]
+	path = Mental-Health-Chatbot
+	url = https://github.com/damodara2006/Mental-Health-Chatbot.git
+[submodule "E-Commerce-website"]
+	path = E-Commerce-website
+	url = https://github.com/damodara2006/E-Commerce.git
+[submodule "Chatting-website"]
+	path = Chatting-website
+	url = https://github.com/damodara2006/Chatting-app.git
+[submodule "Car-park-booking-website"]
+	path = Car-park-booking-website
+	url = https://github.com/damodara2006/Car-Parking-System.git
+[submodule "Feedback-form"]
+	path = Feedback-form
+	url = https://github.com/damodara2006/Feedback-Website.git
+[submodule "Login-page-with-google-auth"]
+	path = Login-page-with-google-auth
+	url = https://github.com/damodara2006/Login-page-google.git
+[submodule "To-Do-List-with-Supabase"]
+	path = To-Do-List-with-Supabase
+	url = https://github.com/damodara2006/Supabase-Todolist.git
+[submodule "StayFinder"]
+	path = StayFinder
+	url = https://github.com/damodara2006/StayFinder.git
+[submodule "Razorpay-integration"]
+	path = Razorpay-integration
+	url = https://github.com/damodara2006/razorpay.git
